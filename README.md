@@ -13,4 +13,6 @@ While there is a wealth of interesting data points and directions to go with thi
 
         a. Distributions by payer 
         
-        ![cost][Cost_by_Payer.png]
+        ![cost](Cost_by_Payer.png)
+
+        ![allwed](NegotiatedbyPayer.png)
