@@ -15,4 +15,4 @@ While there is a wealth of interesting data points and directions to go with thi
         
         ![cost](/cmcmullen/Desktop/PRI/Cost_by_Payer.png)
 
-        ![allwed](NegotiatedbyPayer.png)
+        ![allwed](NegotiatedbyPayer.png "")
