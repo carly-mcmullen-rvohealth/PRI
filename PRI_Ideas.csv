@@ -1,0 +1,594 @@
+PROCEDURE_CODE,DESCRIPTION,PAYER_NAME,LINE_OF_BUSINESS,ORG_NAME_ORG,CHARGE_PER_UNIT,PAID_AMT_PER_UNIT,ALLOWED_AMT_PER_UNIT
+27438,"Arthroplasty, patella; with prosthesis",Medicare,Medicare,PIEDMONT HOSPITAL,19031,10318.71,19031
+27438,"Arthroplasty, patella; with prosthesis",Aetna,Commercial,PIEDMONT HOSPITAL,17298,11629.7,13682
+27438,"Arthroplasty, patella; with prosthesis",Medicare,Medicare,GEORGIA BONE & JOINT LLC,1755.6,188.69,235.3
+27438,"Arthroplasty, patella; with prosthesis",Aetna,Commercial,ADVANCED CENTER FOR JOINT SURGERY LLC,,,
+27438,"Arthroplasty, patella; with prosthesis",Medicare,Medicare,ADVANCED CENTER FOR JOINT SURGERY LLC,55000,6334.19,7917.74
+27438,"Arthroplasty, patella; with prosthesis",Cigna,Commercial,SPECIALTY ORTHOPAEDICS PC,2556.75,406.55,747.39
+27438,"Arthroplasty, patella; with prosthesis",Cigna,Commercial,PIEDMONT ATHENS REGIONAL MEDICAL CENTER,21475,11618.41,11618.41
+27438,"Arthroplasty, patella; with prosthesis",Aetna,Commercial,SOUTHERN SURGICAL ASSISTANTS LLC,1275,205.82,257.27
+27438,"Arthroplasty, patella; with prosthesis",Medicare,Medicare,PIEDMONT SURGERY CENTER,14800,6227.78,7784.72
+27438,"Arthroplasty, patella; with prosthesis",Anthem,Commercial,PIEDMONT ORTHOPEDICS LLC,2939,1485.16,1980.21
+27438,"Arthroplasty, patella; with prosthesis",Medicare,Medicare,PIEDMONT ORTHOPEDICS LLC,2939,689.56,855.78
+27438,"Arthroplasty, patella; with prosthesis",Humana,Commercial,ADVANCED JOINT SURGERY SPECIALISTS LLC,2529,,1713.92
+27438,"Arthroplasty, patella; with prosthesis",Aetna,Commercial,AOS SURGERY CENTER LLC,60000,7562.25,7762.25
+27438,"Arthroplasty, patella; with prosthesis",Anthem,Commercial,AOS SURGERY CENTER LLC,60000,2476.23,2812.14
+27438,"Arthroplasty, patella; with prosthesis",Aetna,Commercial,PEACHTREE ORTHOPEADIC SURGERY CENTER,20000,912.75,912.75
+27438,"Arthroplasty, patella; with prosthesis",Anthem,Commercial,NORTHWEST GA ORTHOPAEDIC SURGERY CENTER,22257,239.41,1473.63
+27438,"Arthroplasty, patella; with prosthesis",Anthem,Commercial,PEACHTREE ORTHOPAEDIC SURG CTR AT PERIMETER LLC,20000,2700,2700
+27442,"Arthroplasty, femoral condyles or tibial plateau(s), knee;",Anthem,Commercial,LAWRENCEVILLE SURGERY CENTER,14428,1473.63,1473.63
+27442,"Arthroplasty, femoral condyles or tibial plateau(s), knee;",Humana,Medicare,WELLSTAR WINDY HILL HOSPITAL,16611,,
+27442,"Arthroplasty, femoral condyles or tibial plateau(s), knee;",Anthem,Commercial,PIEDMONT ORTHOPEDICS LLC,608.8,287.38,287.38
+27442,"Arthroplasty, femoral condyles or tibial plateau(s), knee;",Medicare,Medicare,PIEDMONT ORTHOPEDICS LLC,3044,698.56,886.76
+27442,"Arthroplasty, femoral condyles or tibial plateau(s), knee;",Medicare,Medicare,REGENERATIVE OTHOPAEDICS SURGERY CENTER LLC,31613.7,6717.3,8396.63
+27442,"Arthroplasty, femoral condyles or tibial plateau(s), knee;",Medicare,Medicare,PIEDMONT HENRY HOSPITAL,17298,10573.35,17298
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PEACHTREE ORTHOPAEDIC SURG CTR AT PERIMETER LLC,35000,14736.63,15392.01
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PEACHTREE ORTHOPAEDIC SURG CTR AT PERIMETER LLC,35000,14331.24,15965
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PEACHTREE ORTHOPAEDIC SURG CTR AT PERIMETER LLC,35000,15362.09,16440.09
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,PEACHTREE ORTHOPAEDIC SURG CTR AT PERIMETER LLC,35000,8427.73,8745.07
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,PEACHTREE ORTHOPAEDIC SURG CTR AT PERIMETER LLC,35000,19000,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PEACHTREE ORTHOPAEDIC SURG CTR AT PERIMETER LLC,23966.67,9474.92,9750
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PEACHTREE ORTHOPAEDIC SURG CTR AT PERIMETER LLC,35000,6905.54,8645.04
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,NORTHSIDE HOSPITAL,16460.11,2842.92,3037.77
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,ELBERT MEMORIAL HOSPITAL,24463,9785.2,9785.2
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,NORTHEAST GEORGIA MEDICAL CENTER,21024.46,11857.76,12217.14
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,RESURGENS FAYETTE SURGERY CENTER LLC,27783,10274.21,13515.68
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,NORTHSIDE HOSPITAL-FORSYTH,24948,3424.2,4323.49
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,RESURGENS EAST SURGERY CENTER LLC,27783,6933.75,8689.05
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,RESURGENS FAYETTE SURGERY CENTER LLC,27783,12162.53,14357.52
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,RESURGENS EAST SURGERY CENTER LLC,27783,10753.74,12135.62
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,RESURGENS EAST SURGERY CENTER LLC,27783,8249.03,8524.03
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,EMORY WESLEY WOODS GERIATRIC HOSPITAL,7231.25,11653.76,12038.76
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ADVENT HEALTH HOME CARE GORDON,65265,,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,RESURGENS FAYETTE SURGERY CENTER LLC,27783,11065.95,11497.28
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,RESURGENS FAYETTE SURGERY CENTER LLC,18702.62,5859.9,4262.15
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,RESURGENS FAYETTE SURGERY CENTER LLC,27783,6840.43,8568.03
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,RESURGENS EAST SURGERY CENTER LLC,27783,11627.43,12300
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,RESURGENS EAST SURGERY CENTER LLC,27783,9999.08,10713.03
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,EMORY WESLEY WOODS GERIATRIC HOSPITAL,8734.92,11524.39,12371.94
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,ADVENT HEALTH HOME CARE GORDON,45926.49,10526.52,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,3053.22,1847.18,2771.08
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,2697.76,795.83,800.84
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,NORTHWEST GA ORTHOPAEDIC SURGERY CENTER,42463.06,3472.29,3541.09
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,NORTHWEST GA ORTHOPAEDIC SURGERY CENTER,42844.17,23627.14,27843.75
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,RESURGENS SURGERY CENTER LLC,35184,8651.09,8746.09
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,RESURGENS SURGERY CENTER LLC,35418.67,10076.09,11000
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,WELLSTAR PAULDING HOSPITAL,20170.5,3082,3707
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,WELLSTAR PAULDING HOSPITAL,19691.86,11456.76,12220.49
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,NORTHWEST GA ORTHOPAEDIC SURGERY CENTER,42378.29,9826.63,10840.15
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,RESURGENS SURGERY CENTER LLC,35440,5749.91,5882.18
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,2673.16,1328.87,1464.66
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,2638.35,602.29,746.89
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,WELLSTAR PAULDING HOSPITAL,21696,12247.84,12539.84
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,EMORY UNIVERSITY HOSPITAL MIDTOWN,12291.33,11148.06,12105.4
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,RESURGENS SURGERY CENTER LLC,35590.15,21631.83,23149.76
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,RESURGENS SURGERY CENTER LLC,35649.36,6888.37,8647.09
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,NORTHWEST GA ORTHOPAEDIC SURGERY CENTER,42648.5,8420.3,8745.07
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,NORTHWEST GA ORTHOPAEDIC SURGERY CENTER,42438.33,6881.14,8628.8
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,2668.08,1023.01,1221.22
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,2892.53,837.53,842.16
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,4362,3590.88,3590.88
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,CHATHAM ORTHOPAEDIC SURGERY CENTER,23075,10339.14,12576.02
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,EASTSIDE ORTHOCARE LLC,4667,789.17,789.17
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,LEGEND ORTHOPEDICS,3421.38,2005.66,2035.01
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,CARTERSVILLE MEDICAL CENTER,,,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,CHATHAM ORTHOPAEDIC SURGERY CENTER,23075,8582.67,10192.31
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,CARTERSVILLE MEDICAL CENTER,56201,,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,CARTERSVILLE MEDICAL CENTER,37301.33,10832.53,11802.71
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,CHATHAM ORTHOPAEDIC SURGERY CENTER,21335.42,7487.61,8177.1
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,CHATHAM ORTHOPAEDIC SURGERY CENTER,27780.2,6413.98,8050.04
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,EASTSIDE ORTHOCARE LLC,4667,741.28,740.32
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,GLYNCO IMMEDIATE CARE CENTER,4895.78,1069.66,1095.46
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PEACHTREE ORTHOPEADIC SURGERY CENTER,35000,12959,15615.5
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PEACHTREE ORTHOPEADIC SURGERY CENTER,35000,13947.14,14308.9
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PEACHTREE ORTHOPEADIC SURGERY CENTER,35000,14876.8,15965
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PEACHTREE ORTHOPEADIC SURGERY CENTER,32158.33,9403.75,9750
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,PEACHTREE ORTHOPEADIC SURGERY CENTER,35000,16686.01,19000
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PEACHTREE ORTHOPEADIC SURGERY CENTER,35000,6893.02,8631.22
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,EMORY SAINT JOSEPH'S HOSPITAL OF ATLANTA,8755.07,11758.15,12070.15
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,EMORY SAINT JOSEPH'S HOSPITAL OF ATLANTA,8024.42,,25226
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PERRY HOSPITAL,22300,9897.82,10170.31
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PINNACLE ORTHO SURG CTR - WOODSTOCK LLC,16803.98,8927.08,9309.87
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,EMORY SAINT JOSEPH'S HOSPITAL OF ATLANTA,4576,4156.23,4576
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,EMORY SAINT JOSEPH'S HOSPITAL OF ATLANTA,9194.55,10569.17,11064.42
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PIEDMONT WALTON HOSPITAL INC,22718.73,11820.99,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PIEDMONT WALTON HOSPITAL INC,23641.67,10550.6,10550.6
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PIEDMONT WALTON HOSPITAL INC,24218,10735.43,10735.43
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PIEDMONT WALTON HOSPITAL INC,21680.01,11426.73,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,ADVENTHEALTH GORDON,43654.33,17697.02,17998.67
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,ADVENTHEALTH GORDON,54214.42,1700.79,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,PIEDMONT WALTON HOSPITAL INC,25947,17386.77,17386.77
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,ADVENTHEALTH GORDON,52855.74,10364.4,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ADVENTHEALTH GORDON,50322.22,12707,14534.16
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,ADVENTHEALTH GORDON,45422.23,10528.13,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,ADVANCED JOINT SURGERY SPECIALISTS LLC,4480.96,2111.48,2606.07
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,NORTHEAST GEORGIA PHYSICIANS GROUP INC.,3570.49,1022.34,1145.38
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ADVANCED JOINT SURGERY SPECIALISTS LLC,4416.44,1209.93,1223.29
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,ADVANCED JOINT SURGERY SPECIALISTS LLC,4371.66,1185.78,1201.41
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PIEDMONT MACON NORTH,33424.13,14961.92,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,PIEDMONT MACON NORTH,40388.25,11787.67,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,OLYMPIAN SURGICAL ASSISTANTS,9000,151.06,151.06
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,NORTHEAST GEORGIA PHYSICIANS GROUP INC.,3817.5,1699.82,2888.3
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PIEDMONT MACON NORTH,34816.95,11592.47,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,UNION GENERAL HOSPITAL,8054.5,12750,12750
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,MYERS SPORTS MEDICINE AND ORTHOPAEDIC CENTER,3250.15,2951.14,2951.14
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,LAWRENCEVILLE SURGERY CENTER,40794,9986.25,10650.68
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,LAWRENCEVILLE SURGERY CENTER,40794,14179.19,13505.13
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,LAWRENCEVILLE SURGERY CENTER,40794,24061.52,26516.1
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,LAWRENCEVILLE SURGERY CENTER,40794,6869.15,8627.57
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,LAWRENCEVILLE SURGERY CENTER,40794,8468.67,8634.04
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ST. MARY'S HEALTH CARE SYSTEM,13575.93,11385.43,12225.39
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,TANNER MEDICAL CENTER-VILLA RICA,21185,12879.84,13077.5
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,WELLSTAR WINDY HILL HOSPITAL,14238,3622,3622
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ST. MARY'S SACRED HEART HOSPITAL,9193,10966.58,11249.08
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,LAUREL PARK AT HENRY MED CTR,22512.41,11376.38,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,WELLSTAR WINDY HILL HOSPITAL,16611,6720,6720
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,SUPERIOR SURGICAL ASSOCIATES INC,6488,168.28,177.04
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,OPTIM MEDICAL CENTER - TATTNALL,6451,1209.23,1301.54
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,WELLSTAR WINDY HILL HOSPITAL,19775,11387.08,12450.01
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,WELLSTAR WINDY HILL HOSPITAL,16338.54,12483.94,13417.36
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,EMORY HILLANDALE HOSPITAL,10545,12493.23,12493.23
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,NORTHSIDE SURGICAL PROFESSIONAL SERVICES LLC,4641,2133.67,2844.89
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,NORTHSIDE SURGICAL PROFESSIONAL SERVICES LLC,4641,1257.25,1304.49
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,ORTHOPAEDIC ASSOCIATES,6050,1452.79,2030.96
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,ORTHOPAEDIC ASSOCIATES,6050,1230.34,1240.34
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,ORTHOPAEDIC ASSOCIATES,6050,979.79,1242.82
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,NEW HORIZONS LIMESTONE,18866.5,12305.42,12423.97
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,GAINESVILLE SURGERY CENTER LP,21939,9392,9442
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,GAINESVILLE SURGERY CENTER LP,21939,8695.64,8695.64
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,ORTHOPAEDIC ASSOCIATES,6050,1085.01,1303.38
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,GAINESVILLE SURGERY CENTER LP,26599,6886.94,8695.64
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,GAINESVILLE SURGERY CENTER LP,21300,8176.41,8401.41
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,GAINESVILLE SURGERY CENTER LP,21619.5,8336.75,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,ORTHOPAEDIC ASSOCIATES,6050,1264.77,1277.55
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,HOUSTON MEDICAL CENTER,16225,11459.92,11629.44
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ORTHOPAEDIC SOUTH SURGICAL CENTER,34159,13803.31,15264.82
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PIEDMONT HOSPITALIST PHYSICIANS LLC,3613.8,929.33,1013.53
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,PIEDMONT HOSPITALIST PHYSICIANS LLC,2853,1498.09,1978.56
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PIEDMONT HOSPITALIST PHYSICIANS LLC,3463.95,882.94,910.16
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PIEDMONT HOSPITALIST PHYSICIANS LLC,3853.29,791.3,986.84
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PERIMETER CENTER FOR OUTPATIENT SURGERY LP,23767,15769.47,17048.07
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PERIMETER CENTER FOR OUTPATIENT SURGERY LP,37846.42,6803.27,8612.04
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,ORTHOPAEDIC SOUTH SURGICAL CENTER,34159,12807.79,14278.44
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,ORTHOPAEDIC SOUTH SURGICAL CENTER,34159,8370.43,8579.04
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PIEDMONT ORTHOPEDICS LLC,3393.39,709.59,883.64
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PIEDMONT HOSPITALIST PHYSICIANS LLC,3689.88,1816.91,2290.14
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PERIMETER CENTER FOR OUTPATIENT SURGERY LP,35894.14,8497.8,9442
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PERIMETER CENTER FOR OUTPATIENT SURGERY LP,24123.5,8281.95,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,ORTHOPAEDIC SOUTH SURGICAL CENTER,34159,10419.86,11964.9
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PIEDMONT ORTHOPEDICS LLC,3447.38,1110.39,1353.72
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PIEDMONT ORTHOPEDICS LLC,3492.89,1932.66,2227.42
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PIEDMONT ORTHOPEDICS LLC,3636.62,1592.39,1869.1
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Medicare,PIEDMONT ORTHOPEDICS LLC,4755,2399.79,2399.79
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,ROME ORTHOPAEDIC CLINIC ASC INC,28725.5,8009.98,8500
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PIEDMONT HOSPITALIST PHYSICIANS LLC,4160.63,2073.46,2404.64
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,PIEDMONT ORTHOPEDICS LLC,4236.27,1218.44,1274.22
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,PIEDMONT ORTHOPEDICS LLC,3962.5,2075.78,2292.37
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PIEDMONT ORTHOPEDICS LLC,3313.91,885.74,906.06
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,ORTHOPAEDIC SOUTH SURGICAL CENTER,34159,6913.25,8670.71
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,GWINNETT BONE & JOINT SPECIALIST,35000,1041.28,1304.49
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,ROME ORTHOPAEDIC CLINIC ASC INC,28725.5,14537.12,15000
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,EMORY CLINIC INC.,5243,1543.69,1543.69
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,EVANS SURGERY CENTER,37200,22242.11,23532.97
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,EVANS SURGERY CENTER,35858.82,6574.65,8233.41
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,EMORY CLINIC INC.,5082.09,1229.73,1237.78
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PIEDMONT SURGERY CENTER,13612.5,11524.74,8380.82
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PIEDMONT SURGERY CENTER,14000,2000,2000
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,EVANS SURGERY CENTER,40000,8078.55,8353.55
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,EVANS SURGERY CENTER,35000,7953.4,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,ATLANTA KNEE AND SPORTS MEDICINE,34916.67,2041.9,2581.76
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ATLANTA KNEE AND SPORTS MEDICINE,35000,2247.53,2809.41
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,DANIELS SURGICAL SERVICES,18471,151.06,151.06
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,HOUSTON ORTHOPAEDIC SURGERY & SPORTS MEDICINE,6226.4,773.25,789.81
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PIEDMONT SURGERY CENTER,15181.82,6707.66,8419.23
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,ATLANTA KNEE AND SPORTS MEDICINE,,,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,ATLANTA KNEE AND SPORTS MEDICINE,33025,982.36,1232.82
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,SPORTS MEDICINE SOUTH LLC,3480.75,735.66,760.59
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,SOUTHERN SURGICAL ASSISTANTS LLC,3325,207.85,249.9
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,SOUTHERN SURGICAL ASSISTANTS LLC,3325,214.1,207
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PIEDMONT FAYETTE HOSPITAL,23846.64,11644.62,11163.23
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PIEDMONT FAYETTE HOSPITAL,22214.21,10420.02,22134.87
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,SOUTH GEORGIA MEDICAL CENTER,10210.67,7902.4,21014.22
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PIEDMONT FAYETTE HOSPITAL,22173.12,10993.08,180.32
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,PIEDMONT FAYETTE HOSPITAL,20925.93,12048.05,12614.52
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Medicare,PIEDMONT FAYETTE HOSPITAL,23927.84,10176.17,7636.33
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,PIEDMONT FAYETTE HOSPITAL,15568.2,20936,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,SOUTHERN ORTHOPAEDICS AND SPORTS MEDICINE P.C.,4500,702.7,720.93
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,SOUTHERN ORTHOPAEDICS AND SPORTS MEDICINE P.C.,4515.96,574.84,706.09
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PIEDMONT FAYETTE HOSPITAL,23073.13,11769.78,13682
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PIEDMONT FAYETTE HOSPITAL,24551.59,17215.38,20996.65
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,SOUTHERN ORTHOPAEDICS AND SPORTS MEDICINE P.C.,4500,1217.26,1259.64
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,SOUTHERN ORTHOPAEDICS AND SPORTS MEDICINE P.C.,4500,1235.34,1343.3
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,SOUTHERN ORTHOPAEDICS AND SPORTS MEDICINE P.C.,4500,1278.61,1483.89
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,SPECIALTY ORTHOPAEDICS SURGERY CENTER,20411.76,8203.61,10264.64
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,SPECIALTY ORTHOPAEDICS SURGERY CENTER,19000,8667.05,8696.05
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,SPECIALTY ORTHOPAEDICS SURGERY CENTER,20333.33,8877.65,10591.56
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,SPECIALTY ORTHOPAEDICS SURGERY CENTER,20600,8324.2,8696.32
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,SPECIALTY ORTHOPAEDICS SURGERY CENTER,19527.53,6827.65,8560.29
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,WELLSTAR COBB HOSPITAL,28476,5376,6720
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,SPECIALTY ORTHOPAEDICS SURGERY CENTER,19592.59,9353.28,9028.89
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,WELLSTAR COBB HOSPITAL,16611,3092,3792
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,WELLSTAR COBB HOSPITAL,20574.18,11317.92,13016.9
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,REGENERATIVE ORTHOPAEDICS AND SPINE INSTITUTE PC,7484.8,1329.45,1329.45
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,SPECIALTY ORTHOPAEDICS SURGERY CENTER,19000,6000,6000
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,WELLSTAR COBB HOSPITAL,21653.63,11715.51,12521.46
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,GEORGIA BONE AND JOINT SURGEONS PC,9978,1240.33,1244.47
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PIEDMONT ATHENS REGIONAL MEDICAL CENTER,26303,14670.72,17935
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PIEDMONT ATHENS REGIONAL MEDICAL CENTER,12791,9455.99,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PIEDMONT ATHENS REGIONAL MEDICAL CENTER,26122.27,10327.35,25743.94
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,EMORY JOHNS CREEK HOSPITAL,10352.38,12236.49,12236.49
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,EMORY JOHNS CREEK HOSPITAL,11549.5,23484.25,25226
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,EMORY JOHNS CREEK HOSPITAL,10893.92,11124.96,11777.83
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,ASSOCIATES IN ORTHOPEDICS & SPORTS MEDICINE PC,3571.4,1377.88,1809.22
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,ASSOCIATES IN ORTHOPEDICS & SPORTS MEDICINE PC,3955.04,736.36,916.21
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,WELLSTAR WEST GEORGIA MEDICAL CENTER,22543.5,11327.96,11702.96
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,AUGUSTA ORTHOPEDIC & SPORTS MEDICINE SPECIALISTS PC,4080,984.76,984.76
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,AUGUSTA ORTHOPEDIC & SPORTS MEDICINE SPECIALISTS PC,3079.63,566.26,948.3
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PIEDMONT ROCKDALE HOSPITAL INC.,43237,16411.49,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PIEDMONT ATHENS REGIONAL MEDICAL CENTER,24749.45,17285.5,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,PIEDMONT ATHENS REGIONAL MEDICAL CENTER,11181.66,12076.08,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,ASSOCIATES IN ORTHOPEDICS & SPORTS MEDICINE PC,3246.73,1701.9,2093.82
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,ASSOCIATES IN ORTHOPEDICS & SPORTS MEDICINE PC,5102,1216.53,1246.53
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ASSOCIATES IN ORTHOPEDICS & SPORTS MEDICINE PC,3730.84,2201.19,2575.62
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PIEDMONT ATHENS REGIONAL MEDICAL CENTER,27510,11643.72,11794.63
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PIEDMONT ROCKDALE HOSPITAL INC.,29405,12195.23,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,PIEDMONT ROCKDALE HOSPITAL INC.,41508,20936,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PIEDMONT ROCKDALE HOSPITAL INC.,36321,11047.84,11920.74
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,SOUTHEAST GEORGIA HEALTH SYSTEM CAMDEN CAMPUS,19876.24,11909.61,12159.56
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PIEDMONT ROCKDALE HOSPITAL INC.,39779,12971.7,12971.7
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PIEDMONT ROCKDALE HOSPITAL INC.,38044,10419.6,29405
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,JEFF A TRAUB MD PC,30000,1807.6,2058.06
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,BARBOUR ORTHOPAEDICS SURGERY CENTER LLC,,,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PEACHTREE ORTHOPAEDIC CLINIC PA,7556.91,1112.11,1121.61
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,ATLANTA ORTHOPAEDIC AND SPINE LLC,10427.04,1326.13,1329.45
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,JEFF A TRAUB MD PC,30842.11,2376.74,2589.04
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,JEFF A TRAUB MD PC,29145.16,596.07,740.26
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,WELLSTAR SPALDING REGIONAL HOSPITAL,15258.25,11373.73,12288.65
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,BARBOUR ORTHOPAEDICS SURGERY CENTER LLC,56000,11507.45,12786.05
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,REDMOND REGIONAL MEDICAL CENTER,29217.6,11611.28,11802.77
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,SOUTHERN BONE & JOINT LLC,43720.25,12601.94,17000
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,SOUTHERN BONE & JOINT LLC,43720.25,8334.86,8744.05
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,SOUTHERN BONE & JOINT LLC,19634.36,6371.16,7800
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,SOUTHERN BONE & JOINT LLC,20000,6225.59,7860.59
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,SOUTHERN BONE & JOINT LLC,43720.25,8607.11,8744.05
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,STEPHENS COUNTY HOSPITAL PHYSICIAN GROUP LLC,3385,1265.15,1265.15
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PIEDMONT NEWTON HOSPITAL,24211.6,11761.53,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PIEDMONT NEWTON HOSPITAL,190,17911.91,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,WEST GEORGIA HOME CARE,32035.5,11327.96,11702.96
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PIEDMONT NEWTON HOSPITAL,26955.08,10852.94,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PIEDMONT NEWTON HOSPITAL,27243.75,10456.83,27243.75
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ST. MARY'S GOOD SAMARITAN HOSPITAL,8455,1623.36,2029.2
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,AK SURGICAL ASSISTANTS,9000,177.71,177.71
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PIEDMONT NEWTON HOSPITAL,29059.2,16909.17,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,PIEDMONT NEWTON HOSPITAL,25947,19854,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,WELLSTAR NORTH FULTON HOSPITAL,18214,12117.85,12392.85
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,WELLSTAR NORTH FULTON HOSPITAL,14905.87,11918.02,12305.3
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PIEDMONT MOUNTAINSIDE HOSPITAL,25108.33,11882.18,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PIEDMONT MOUNTAINSIDE HOSPITAL,28170,12805.61,14132.17
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,SOUTHERN REGIONAL MEDICAL CENTER,3267,1306.7,1306.7
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,SPECIALTY ORTHOPAEDICS PC,6968,1184.79,1242.11
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,SPECIALTY ORTHOPAEDICS PC,6336.4,840.23,1052.91
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,ADVANCED CENTER FOR JOINT SURGERY LLC,55000,14886.75,16438.69
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,ADVANCED CENTER FOR JOINT SURGERY LLC,55000,22473.4,24400.7
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ADVANCED CENTER FOR JOINT SURGERY LLC,55000,21232.63,22709.4
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,ADVANCED CENTER FOR JOINT SURGERY LLC,55000,6889.44,8642.85
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,SPECIALTY ORTHOPAEDICS PC,6322.81,1238.1,1344.17
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PIEDMONT MOUNTAINSIDE HOSPITAL,25947,9818.49,9936.49
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,SPECIALTY ORTHOPAEDICS PC,5806.67,1196.04,1547.87
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,SPECIALTY ORTHOPAEDICS PC,6097,979.87,979.87
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,SPECIALTY ORTHOPAEDICS PC,6651.27,1301,1352.03
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,SPECIALTY ORTHOPAEDICS PC,5226,630.62,1113.7
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,ADVANCED CENTER FOR JOINT SURGERY LLC,55000,24677.14,29172
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PIEDMONT MOUNTAINSIDE HOSPITAL,24203.37,11277.05,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PIEDMONT MOUNTAINSIDE HOSPITAL,27225.98,10426.51,26848.24
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,SOUTHERN REGIONAL MEDICAL CENTER,3267,1409.23,1409.23
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,SOUTHERN REGIONAL MEDICAL CENTER,3267,1317.87,1882.67
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,SOUTHERN REGIONAL MEDICAL CENTER,3267,1029.65,1300.06
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,ADVANCED CENTER FOR JOINT SURGERY LLC,55000,6032.83,8634.04
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,ADVANCED CENTER FOR JOINT SURGERY LLC,55000,8598.27,8650.05
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,ST. JOSEPH'S HOSPITAL,17646.23,10490.97,11163.04
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,NORTHSIDE HOSPITAL-CHEROKEE,16325,2707.08,2931.97
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,ST. JOSEPH'S HOSPITAL,18066.5,4869,5219
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ATHENS ORTHOPEDIC CLINIC PA,5455.29,888.81,878.02
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,HUGHSTON CLINIC P.C.,4415.54,907.1,911.05
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,ATHENS ORTHOPEDIC CLINIC PA,7511,2611.54,2611.54
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PERIMETER ORTHOPAEDICS PC,6962.85,1175.93,1448.61
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,QSS GEORGIA LLC,1393,176.81,176.81
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,HARBIN CLINIC,3798,866.4,867.64
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,DEKALB GPO LLC,29833.33,646.15,803.3
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,DEKALB GPO LLC,30000,2231.8,2284.85
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,DEKALB GPO LLC,30000,1270.15,1328.77
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,DEKALB GPO LLC,29583.33,1080.12,1211.96
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,ORTHOPAEDIC ASSOCIATES SURGERY CENTER LLC,24500,10789.34,13060.51
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,F5 SURGICAL - TRICOUNTY SURGICAL LLC,6341.42,177.71,177.71
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,SOUTHEAST GEORGIA HEALTH SYSTEM BRUNSWICK CAMPUS,20914.07,11967.21,14068.79
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,ROSWELL SURGERY CENTER L.L.C.,42648.5,14803,15428
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,ROSWELL SURGERY CENTER L.L.C.,42482.58,6884.19,8628.25
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,ROSWELL SURGERY CENTER L.L.C.,42368.28,3938.83,3790.36
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,ROSWELL SURGERY CENTER L.L.C.,42421.52,24338.55,27573.99
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ROSWELL SURGERY CENTER L.L.C.,42228.17,10057.25,10858.95
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,ROSWELL SURGERY CENTER L.L.C.,42438.33,9164.42,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,TAYLOR REGIONAL HOSPITAL,7260,1246.53,1246.53
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,ROME ORTHOPAEDIC CENTER PC,3603.75,1097.96,1648.49
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,ROME ORTHOPAEDIC CENTER PC,5265.23,1031.06,1196.83
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,ROME ORTHOPAEDIC CENTER PC,3105.11,720.85,733.39
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,WELLSTAR DOUGLAS HOSPITAL,16611,10188.66,12735.82
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,ROME ORTHOPAEDIC CENTER PC,3258.27,610.64,764.26
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,GWINNETT PHYSICIAN GROUP LLC,4641,1306.7,1306.7
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,WELLSTAR DOUGLAS HOSPITAL,15735.97,11558.12,12233.12
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,ROME ORTHOPAEDIC CENTER PC,4521.83,790.33,807.85
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ROME ORTHOPAEDIC CENTER PC,3129.06,928.94,1030.3
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,ROME ORTHOPAEDIC CENTER PC,2628.29,1102.61,1987.84
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PHOEBE PUTNEY MEMORIAL HOSPITAL,22750,11974.54,12317.13
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ADVENTHEALTH MEDICAL GROUP,4039,1229.44,1242.82
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,INTERNAL MEDICINE AND GERIATRICS-RHC,3150,1232.07,1240.34
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PRIME SURGICAL ASSOCIATES INC.,4300,160.82,170.82
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,ORTHOATLANTA SURGERY CENTER OF FAYETTEVILLE LLC,50000,13127.07,12146.72
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ORTHOATLANTA SURGERY CENTER OF FAYETTEVILLE LLC,50000,10489.25,11607.24
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,ORTHOATLANTA SURGERY CENTER OF FAYETTEVILLE LLC,50000,6960.27,8744.05
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,ORTHOATLANTA SURGERY CENTER OF FAYETTEVILLE LLC,50000,13845.66,15193.56
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,ORTHOATLANTA SURGERY CENTER OF FAYETTEVILLE LLC,50000,8504.59,8893.06
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,FAMILY ORTHOPEDICS PC,4750,1246.53,1246.53
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,REGENERATIVE OTHOPAEDICS SURGERY CENTER LLC,,12126.73,13464.44
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,REGENERATIVE OTHOPAEDICS SURGERY CENTER LLC,,4219.04,21735.72
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,REGENERATIVE OTHOPAEDICS SURGERY CENTER LLC,,6879.37,8641.37
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PIEDMONT ATHENS SPECIALTY CARE LLC,2853,,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,REGENERATIVE OTHOPAEDICS SURGERY CENTER LLC,,8524.03,8524.03
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,REGENERATIVE OTHOPAEDICS SURGERY CENTER LLC,,7922.12,8584.04
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PIEDMONT ATHENS SPECIALTY CARE LLC,3487,643.91,1469.84
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PIEDMONT ATHENS SPECIALTY CARE LLC,2979.8,1795.4,1818.29
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PIEDMONT ATHENS SPECIALTY CARE LLC,3740.6,1382.73,1758.29
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PIEDMONT ATHENS SPECIALTY CARE LLC,3315.65,673.5,836.58
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,REGENERATIVE OTHOPAEDICS SURGERY CENTER LLC,,9559.02,8612.04
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,WAYNE MEMORIAL HOSPITAL,23745.6,11323.13,11621.31
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,AOI SURGERY CENTER,34178,8679.37,11123.37
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,AOI SURGERY CENTER,34178,11911.56,12021.53
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,AOI SURGERY CENTER,34522.63,12904.62,13260
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,AOI SURGERY CENTER,34178,6859,8606.54
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,STEPHENS COUNTY HOSPITAL,25113.73,11114.11,11409.11
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,ORTHOATLANTA SURGERY CENTER OF AUSTELL LLC,19205,12603.42,13293.47
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,ORTHOATLANTA SURGERY CENTER OF AUSTELL LLC,19205,6897.86,8642.5
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,NORTHVIEW ORTHOPAEDIC,4440,2229.94,2229.94
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,NORTHVIEW ORTHOPAEDIC,4440,1005.6,1301.17
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,ORTHOATLANTA SURGERY CENTER OF AUSTELL LLC,19205,10891.46,12599.01
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,ORTHOATLANTA SURGERY CENTER OF AUSTELL LLC,19205,8550.33,8744.05
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,ORTHOATLANTA SURGERY CENTER OF AUSTELL LLC,19205,8702.81,9800
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,WELLSTAR KENNESTONE HOSPITAL,21357,12067.85,12392.85
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PREMIER SURGERY CENTER,38534,7508.5,7856.92
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PREMIER SURGERY CENTER,38534,6296.66,7904.96
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,SURGERY CENTER OF BJI LLC,48910,8188.06,10463.64
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PIEDMONT NEWNAN HOSPITAL,25489.32,10436.53,25343.51
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,AOS SURGERY CENTER LLC,72000,17307.02,19573.8
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,AOS SURGERY CENTER LLC,72000,6593.85,8287.37
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PHOEBE SUMTER MEDICAL CENTER,11250,10968.04,11353.83
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,WELLSTAR KENNESTONE HOSPITAL,19138.38,11816.61,12162.68
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PREMIER SURGERY CENTER,38534,8444.19,9321.23
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,NORTHVIEW ORTHOPAEDIC,4440,1300.15,1304.49
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,SURGERY CENTER OF BJI LLC,48910,12978.71,7524.61
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,SURGERY CENTER OF BJI LLC,49695.77,6034.63,7818.82
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,WELLSTAR KENNESTONE HOSPITAL,15424.5,3707,3707
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PIEDMONT NEWNAN HOSPITAL,27751.78,18475.2,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,PIEDMONT NEWNAN HOSPITAL,25947,18899.9,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,AOS SURGERY CENTER LLC,72000,11319.2,8169.29
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,AOS SURGERY CENTER LLC,72000,8267.44,8350.95
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,AOS SURGERY CENTER LLC,72000,10730.46,12208.44
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,AOS SURGERY CENTER LLC,72000,8012.22,8350.95
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PREMIER SURGERY CENTER,38534,1420.94,1568.69
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,PREMIER SURGERY CENTER,38534,7963.68,7963.68
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,NORTHVIEW ORTHOPAEDIC,4440,1276.7,1306.7
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PIEDMONT NEWNAN HOSPITAL,26556.76,12158.07,13682
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,PIEDMONT NEWNAN HOSPITAL,23568.13,11870.85,12274.82
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PIEDMONT NEWNAN HOSPITAL,27402.47,10951.12,11026.53
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PIEDMONT NEWNAN HOSPITAL,24595.04,11216.89,11920.74
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,SURGERY CENTER OF BJI LLC,50233.4,6908.3,8662.99
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,BONE AND JOINT INSTITUTE OF SOUTH GEORGIA P.C.,5417,1582.89,1708.69
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,BONE AND JOINT INSTITUTE OF SOUTH GEORGIA P.C.,5417,1205.4,1303.38
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,EMORY UNIVERSITY HOSPITAL,,,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,EMORY UNIVERSITY HOSPITAL,9153.25,11076.56,11827.92
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,EMORY UNIVERSITY HOSPITAL,11137.65,11493.9,11992.97
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PIEDMONT COLUMBUS REGIONAL NORTHSIDE,12243.75,14697.69,14175.05
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,PIEDMONT COLUMBUS REGIONAL NORTHSIDE,,,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PIEDMONT COLUMBUS REGIONAL NORTHSIDE,11064.57,10586.78,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PIEDMONT COLUMBUS REGIONAL NORTHSIDE,16179,10822.61,11183.35
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PIEDMONT COLUMBUS REGIONAL NORTHSIDE,13525.67,11013.49,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PIEDMONT COLUMBUS REGIONAL NORTHSIDE,12597,1620.16,1706.15
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,EMORY DECATUR HOSPITAL,11308,11403.59,11403.59
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,TANNER MEDICAL CENTER-CARROLLTON,25838.08,12450.35,13268.1
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,THE LONGSTREET CLINIC PC,4859.62,674.49,678.77
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,WELLSTAR ATLANTA MEDICAL CENTER,15523.54,10556.22,11941.47
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,WELLSTAR ATLANTA MEDICAL CENTER,25580,12155.35,12392.85
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,GEORGIA BONE & JOINT LLC,3102.55,1002.26,1134.93
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,GEORGIA BONE & JOINT LLC,3048.57,614.89,763.15
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,GEORGIA BONE & JOINT LLC,3223.2,831.66,840.89
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,GEORGIA BONE & JOINT LLC,3208.62,1489.95,1763.3
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Medicare,GEORGIA BONE & JOINT LLC,948,253.04,253.04
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,GEORGIA BONE & JOINT LLC,3008.87,1234.69,1522.68
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,GEORGIA BONE & JOINT LLC,3476,2263.85,2376.78
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,GEORGIA BONE & JOINT LLC,2998.57,820.29,803.27
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,FLOYD MEDICAL CENTER,44653.53,11607.17,11950.56
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,WELLSTAR MEDICAL GROUP LLC,3111,1306.7,1306.7
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,WELLSTAR MEDICAL GROUP LLC,3111,1365.06,1365.06
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,STERLING ORTHOPEDICS LLC,3682,178.11,178.11
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,RESURGENS ORTHOPAEDICS,8323.46,1673.7,1861.33
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PIEDMONT HENRY HOSPITAL,21645.89,11090.53,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PIEDMONT HENRY HOSPITAL,23381.99,18483.27,18994.8
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,PIEDMONT HENRY HOSPITAL,23785.75,12096.07,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PIEDMONT HENRY HOSPITAL,24319,11062.97,10414
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PIEDMONT HENRY HOSPITAL,23017.48,10441.45,23017.48
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PIEDMONT HENRY HOSPITAL,22929.02,11720.42,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,PIEDMONT HENRY HOSPITAL,23641.67,20575.33,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,PIEDMONT HOSPITAL,22176.07,11901.53,13310.64
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,PIEDMONT HOSPITAL,24008.76,10896.13,10132.21
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,PIEDMONT HOSPITAL,22429.94,10445.92,22351.01
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,PIEDMONT HOSPITAL,23112.73,18395.8,19926.36
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Commercial,PIEDMONT HOSPITAL,24218,20255.51,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Humana,Medicare,PIEDMONT HOSPITAL,20842.09,11436.5,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Medicaid,PIEDMONT HOSPITAL,23394.1,11840.84,12343.92
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,HAMILTON MEDICAL CENTER,16495,11702.96,11702.96
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Medicare,Medicare,HABERSHAM MEDICAL CENTER,3150,998.17,1246.53
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,HABERSHAM MEDICAL CENTER,3753.39,9217.57,9507.94
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,HABERSHAM MEDICAL CENTER,3406.17,9398,9765.68
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Aetna,Commercial,EASTSIDE MEDICAL CENTER,22295.56,12036.31,
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Anthem,Commercial,EASTSIDE MEDICAL CENTER,12793.77,11927.47,9820.64
+27447,"Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)",Cigna,Commercial,EASTSIDE MEDICAL CENTER,15153.96,11838.93,11868.04
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Aetna,Commercial,BONE AND JOINT INSTITUTE OF SOUTH GEORGIA P.C.,5619,2725.06,2725.06
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Cigna,Commercial,EMORY DECATUR HOSPITAL,9685,10941.11,12156.79
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,GEORGIA BONE & JOINT LLC,3245.22,1153.33,1499.73
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Medicare,Medicare,GEORGIA BONE & JOINT LLC,2950.2,630.61,786.38
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Cigna,Commercial,RESURGENS ORTHOPAEDICS,6526.5,788.14,808.14
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Aetna,Commercial,PIEDMONT HOSPITAL,,,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,PIEDMONT HOSPITAL,27676,19256.78,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Medicare,Medicare,PIEDMONT HOSPITAL,19837.07,10318.71,19837.07
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Aetna,Commercial,PIEDMONT HENRY HOSPITAL,14487.88,14059,14435
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,PIEDMONT HENRY HOSPITAL,22356,18231.99,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Medicaid,PIEDMONT HENRY HOSPITAL,24218,12179.82,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Cigna,Commercial,PIEDMONT HENRY HOSPITAL,18452.67,10638.17,10638.17
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Humana,Commercial,PIEDMONT HENRY HOSPITAL,10378,9927,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Medicare,Medicare,PIEDMONT HENRY HOSPITAL,19892.83,10318.71,17644.6
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Medicare,Medicare,HABERSHAM MEDICAL CENTER,6223.25,1089.9,1362.37
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Humana,Medicare,ROME ORTHOPAEDIC CENTER PC,3755.33,739.59,741.85
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,ROME ORTHOPAEDIC CENTER PC,5383,1152.45,1355.82
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Cigna,Commercial,ROME ORTHOPAEDIC CENTER PC,5383,671.13,677.91
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Aetna,Commercial,ATHENS ORTHOPEDIC CLINIC PA,,,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Cigna,Commercial,ATHENS ORTHOPEDIC CLINIC PA,6412,1342.26,1355.82
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Humana,Medicare,ST. JOSEPH'S HOSPITAL,11734.81,6419.5,6620.7
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Aetna,Commercial,PIEDMONT MOUNTAINSIDE HOSPITAL,22489,13985,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,SPECIALTY ORTHOPAEDICS PC,4721.25,1157.96,1157.96
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Cigna,Commercial,SPECIALTY ORTHOPAEDICS PC,6295,1619.57,1619.57
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Humana,Medicare,SPECIALTY ORTHOPAEDICS PC,6295,940.04,940.04
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Medicare,Medicare,SPECIALTY ORTHOPAEDICS PC,6295,861.21,1077.13
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Aetna,Commercial,DEKALB GPO LLC,35000,2689.26,2988.07
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,DEKALB GPO LLC,25000,3045.26,3045.26
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Humana,Medicare,DEKALB GPO LLC,30000,1458.29,1458.29
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Humana,Medicare,OPTIM MEDICAL CENTER - TATTNALL,5894,704.28,711.39
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,ORTHOPAEDIC SOUTH SURGICAL CENTER,41054,2114.44,2809.08
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Aetna,Commercial,PIEDMONT ORTHOPEDICS LLC,4933,677.91,677.91
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,PIEDMONT ORTHOPEDICS LLC,4285.54,2778.83,2833.33
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Cigna,Commercial,PIEDMONT ORTHOPEDICS LLC,2959.8,1972.24,1972.24
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Humana,Medicare,PIEDMONT ORTHOPEDICS LLC,2959.8,570.95,712.75
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Medicare,Medicare,PIEDMONT ORTHOPEDICS LLC,2565.16,559.14,688.36
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Humana,Medicare,HOUSTON ORTHOPAEDIC SURGERY & SPORTS MEDICINE,7192.67,,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,ATLANTA KNEE AND SPORTS MEDICINE,40000,2406.87,3079.46
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Medicare,Medicare,ATLANTA KNEE AND SPORTS MEDICINE,,,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,LAWRENCEVILLE SURGERY CENTER,41053,,26684.45
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Humana,Commercial,ADVANCED JOINT SURGERY SPECIALISTS LLC,4936,3663.78,4310.33
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Humana,Medicare,ADVANCED JOINT SURGERY SPECIALISTS LLC,2797.35,950.9,958.01
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,ADVENTHEALTH GORDON,,1421.6,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Humana,Medicare,EMORY SAINT JOSEPH'S HOSPITAL OF ATLANTA,7007,,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Aetna,Commercial,PIEDMONT FAYETTE HOSPITAL,27676,11802.71,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,SOUTHERN ORTHOPAEDICS AND SPORTS MEDICINE P.C.,4000,1492.07,1672.44
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Medicare,Medicare,SOUTHERN ORTHOPAEDICS AND SPORTS MEDICINE P.C.,3771.43,667.95,854.71
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,PIEDMONT FAYETTE HOSPITAL,29405,17482.06,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Medicaid,PIEDMONT FAYETTE HOSPITAL,22489,11802.71,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Medicare,Medicare,PIEDMONT FAYETTE HOSPITAL,24218,10318.71,22489
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Cigna,Commercial,REGENERATIVE ORTHOPAEDICS AND SPINE INSTITUTE PC,9628.8,,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Cigna,Commercial,ST. MARY'S HEALTH CARE SYSTEM,13832,11779.05,12054.05
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Cigna,Commercial,PIEDMONT ATHENS SPECIALTY CARE LLC,2302.07,1475.57,1475.57
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Medicare,Medicare,PIEDMONT ATHENS SPECIALTY CARE LLC,,,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,ORTHOATLANTA SURGERY CENTER OF FAYETTEVILLE LLC,50000,1891.08,1891.08
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Aetna,Commercial,SURGERY CENTER OF BJI LLC,,2075,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Aetna,Commercial,TANNER MEDICAL CENTER-VILLA RICA,13489,10521.42,10521.42
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Cigna,Commercial,WELLSTAR KENNESTONE HOSPITAL,3559.5,,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,PREMIER SURGERY CENTER,29442.1,1141.24,1141.24
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,PIEDMONT NEWNAN HOSPITAL,24216,18713.81,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Medicare,Medicare,PIEDMONT NEWNAN HOSPITAL,,,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Aetna,Commercial,PEACHTREE ORTHOPAEDIC SURG CTR AT PERIMETER LLC,35000,18008.39,18500
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,PEACHTREE ORTHOPAEDIC SURG CTR AT PERIMETER LLC,35000,14499.99,15965
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Cigna,Commercial,PEACHTREE ORTHOPAEDIC SURG CTR AT PERIMETER LLC,35000,17850,18000
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Aetna,Commercial,RESURGENS SURGERY CENTER LLC,16550,9180,9180
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Medicare,Medicare,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,2650.67,610.96,773.17
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,NORTHWEST GA ORTHOPAEDIC SURGERY CENTER,42920.5,,27485.9
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Aetna,Commercial,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,2209.25,1283.61,1597.09
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,3829,1473.98,1486.92
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Humana,Medicare,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,2651,628.57,634.92
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Anthem,Commercial,JEFF A TRAUB MD PC,19000,1680.96,1780.96
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Medicare,Medicare,JEFF A TRAUB MD PC,,,
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Cigna,Commercial,PEACHTREE ORTHOPAEDIC CLINIC PA,7788,1402.07,1451.23
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Aetna,Commercial,PEACHTREE ORTHOPEADIC SURGERY CENTER,35000,18500,18500
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Cigna,Commercial,PEACHTREE ORTHOPEADIC SURGERY CENTER,35000,18000,18000
+27486,"Revision of total knee arthroplasty, with or without allograft; 1 component",Humana,Medicare,AUGUSTA ORTHOPEDIC & SPORTS MEDICINE SPECIALISTS PC,5923,,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Medicaid,SOUTHERN ORTHOPAEDICS AND SPORTS MEDICINE P.C.,5320,1703.27,1703.27
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Aetna,Commercial,PIEDMONT FAYETTE HOSPITAL,10954.33,11802.71,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Commercial,PIEDMONT FAYETTE HOSPITAL,32863,18716.36,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,PIEDMONT FAYETTE HOSPITAL,27676,10318.71,20760
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Medicaid,PIEDMONT FAYETTE HOSPITAL,32839,12224.82,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,PIEDMONT FAYETTE HOSPITAL,32863,11575.74,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,REGENERATIVE ORTHOPAEDICS AND SPINE INSTITUTE PC,9157,1816.14,1816.14
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,WELLSTAR COBB HOSPITAL,23730,,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,ASSOCIATES IN ORTHOPEDICS & SPORTS MEDICINE PC,5871,1367.45,1694.88
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Aetna,Commercial,AUGUSTA ORTHOPEDIC & SPORTS MEDICINE SPECIALISTS PC,6200,1703.27,1703.27
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,AUGUSTA ORTHOPEDIC & SPORTS MEDICINE SPECIALISTS PC,6200,1447.78,1447.78
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,JEFF A TRAUB MD PC,,,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Commercial,JEFF A TRAUB MD PC,35000,3620.57,3620.57
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,WELLSTAR SPALDING REGIONAL HOSPITAL,10049.5,12142.85,12392.85
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Aetna,Commercial,EASTSIDE ORTHOCARE LLC,5331,1024.18,1024.18
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Commercial,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,3685.5,1229.79,1536.47
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,3317,800.36,820.34
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,EMORY UNIVERSITY HOSPITAL MIDTOWN,22022,11693.76,12038.76
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,4280.83,815.33,1010.49
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Aetna,Commercial,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,3315.5,1673.95,2171.67
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,PINNACLE ORTHOPAEDICS & SPORTS MEDICINE SPECIALISTS LLC,5528,4026.84,4026.84
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Aetna,Commercial,RESURGENS SURGERY CENTER LLC,38750,9500,9500
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,EMORY WESLEY WOODS GERIATRIC HOSPITAL,13676.39,11663.76,12038.76
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,RESURGENS FAYETTE SURGERY CENTER LLC,,3146.7,3902
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Commercial,WELLSTAR KENNESTONE HOSPITAL,45087,4117,4117
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,PIEDMONT NEWNAN HOSPITAL,38038,10318.71,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Commercial,AOI SURGERY CENTER,,912.5,912.5
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Commercial,PIEDMONT ATHENS SPECIALTY CARE LLC,3585,1948.08,2362.56
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,PIEDMONT ATHENS SPECIALTY CARE LLC,3585,790.32,987.9
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,EMORY MEDICAL CARE FOUNDATION INC,5351,1783.53,1783.53
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,ADVENTHEALTH GORDON,54927,13273.62,13273.62
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,ADVENTHEALTH GORDON,,10218.96,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,ADVANCED JOINT SURGERY SPECIALISTS LLC,5312,1837.04,1837.04
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,ADVANCED JOINT SURGERY SPECIALISTS LLC,4721.78,1451.89,1484.12
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Commercial,ADVANCED JOINT SURGERY SPECIALISTS LLC,5312,3457.58,3592.29
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,NORTHEAST GEORGIA PHYSICIANS GROUP INC.,2976,535.68,669.6
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Commercial,LAWRENCEVILLE SURGERY CENTER,15600,9464,10140
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,LAWRENCEVILLE SURGERY CENTER,15600,3902,3902
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Aetna,Commercial,SOUTHERN SURGICAL ASSISTANTS LLC,2750,298.6,300.02
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,SOUTHERN SURGICAL ASSISTANTS LLC,2750,,266.82
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,HOUSTON ORTHOPAEDIC SURGERY & SPORTS MEDICINE,8683.56,1201.07,1203.82
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Commercial,ATLANTA KNEE AND SPORTS MEDICINE,40000,3798.92,3798.92
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,ATLANTA KNEE AND SPORTS MEDICINE,45000,3499.54,3888.38
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,ATLANTA KNEE AND SPORTS MEDICINE,,,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,EMORY CLINIC INC.,8940,1827.77,1827.77
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Medicaid,PIEDMONT ORTHOPEDICS LLC,5975,1783.53,1783.53
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Commercial,GWINNETT BONE & JOINT SPECIALIST,40000,,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,GWINNETT BONE & JOINT SPECIALIST,,,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Commercial,ORTHOPAEDIC SOUTH SURGICAL CENTER,41054,2668.63,2809.08
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Aetna,Commercial,PIEDMONT ORTHOPEDICS LLC,4406.56,1733.07,1733.07
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Commercial,PIEDMONT ORTHOPEDICS LLC,4575.57,2884.49,3098.06
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,PIEDMONT ORTHOPEDICS LLC,4182.5,1188.6,1192.18
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,PIEDMONT ORTHOPEDICS LLC,5254.49,1169.65,1450.15
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Aetna,Commercial,PIEDMONT HOSPITALIST PHYSICIANS LLC,,,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,PIEDMONT HOSPITALIST PHYSICIANS LLC,5975,1448.51,1783.53
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Commercial,ROME ORTHOPAEDIC CENTER PC,6652.14,1419.28,1474.8
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,ROME ORTHOPAEDIC CENTER PC,3706.5,521.69,521.69
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,ROME ORTHOPAEDIC CENTER PC,4164.57,865.56,1071.21
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,WELLSTAR DOUGLAS HOSPITAL,11865,,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Medicaid,ROME ORTHOPAEDIC CENTER PC,3706.5,983.03,983.03
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,ROME ORTHOPAEDIC CENTER PC,6913,1266.93,1271.16
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,WELLSTAR NORTH FULTON HOSPITAL,27407,11259.98,14074.97
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Aetna,Commercial,PHOEBE PUTNEY MEMORIAL HOSPITAL,96.11,,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,ADVENTHEALTH MEDICAL GROUP,5532,1673.27,1703.27
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Aetna,Commercial,PIEDMONT NEWTON HOSPITAL,,,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,DEKALB GPO LLC,,,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Aetna,Commercial,DEKALB GPO LLC,40000,3727.59,3727.59
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Commercial,DEKALB GPO LLC,40000,3798.92,3798.92
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,DEKALB GPO LLC,40000,1819.2,1819.2
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,SPECIALTY ORTHOPAEDICS PC,8509,1365.21,1703.27
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,ST. JOSEPH'S HOSPITAL,7205.25,,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,ATHENS ORTHOPEDIC CLINIC PA,5312,945.47,958.52
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,PIEDMONT HOME HEALTH,28717,11444.99,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,PIEDMONT HOSPITAL,21908.67,10318.71,16431.5
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Aetna,Commercial,PIEDMONT HOSPITAL,29405,13682,13682
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Anthem,Commercial,PIEDMONT HENRY HOSPITAL,25653.84,15155.37,7687.85
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,PIEDMONT HENRY HOSPITAL,27676,,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,PIEDMONT HENRY HOSPITAL,33727.5,10318.71,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,RESURGENS ORTHOPAEDICS,10783,2986.51,2986.51
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,STERILITY SURGICAL ASSISTING LLC,10759.24,242.56,242.56
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,GEORGIA BONE & JOINT LLC,6161,1774.36,1792.28
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Aetna,Commercial,GEORGIA BONE & JOINT LLC,3696.6,949.14,949.14
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Medicare,Medicare,GEORGIA BONE & JOINT LLC,3696.6,798.22,983.03
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Cigna,Commercial,FLOYD MEDICAL CENTER,47566,,
+27487,"Revision of total knee arthroplasty, with or without allograft; femoral and entire tibial component",Humana,Medicare,EMORY UNIVERSITY HOSPITAL,26312,13553.27,13953.27
