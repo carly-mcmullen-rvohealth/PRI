@@ -16,3 +16,5 @@ While there is a wealth of interesting data points and directions to go with thi
 ![cost](Cost_by_Payer.png)
 
 ![allowed](NegotiatedbyPayer.png)
+
+![patient](Patient_Portion.png)
